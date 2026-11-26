@@ -1,6 +1,8 @@
 {
   "\u0000plugin-vue:export-helper": [],
   "\u0000vite/modulepreload-polyfill.js": [],
+  "../SiegeOfDelAkthan/regions.json": [],
+  "../SiegeOfDelAkthan/regions.svg?raw": [],
   "index.html": [],
   "node_modules/@unhead/vue/dist/client.mjs": [],
   "node_modules/@unhead/vue/dist/shared/vue.Cd6dkybA.mjs": [],
@@ -20,6 +22,7 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&lang.css": [],
   "src/components/GameState.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/SiegeChallengeState.vue?vue&type=script&setup=true&lang.ts": [],
   "src/generated/challenges.json": [],
   "src/generated/games.json": [],
   "src/main.ts": [],
